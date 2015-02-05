@@ -1,5 +1,5 @@
 ## file builds subset of the data according to set rules,
-## unless it is already build. In that case it simly loads it.
+## unless it is already build. In that case it simply loads it.
 
 if (!file.exists(data.subset.file)) {
     # load data

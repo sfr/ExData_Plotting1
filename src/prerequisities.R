@@ -1,4 +1,4 @@
-## in necessary, file call:
+## if necessary, file call:
 ## 1. data download
 ## 2. data subsetting
 
